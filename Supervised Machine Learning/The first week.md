@@ -42,7 +42,10 @@ Reinforcement learning 强化学习
 
 <img width="931" alt="Screen Shot 2022-06-17 at 4 12 55 PM" src="https://user-images.githubusercontent.com/93849914/174395279-e9a8e093-bedb-48ff-a203-4dcc5fcac274.png">
 
-
+## Linear Regression
+- 将一条线拟合到数据中
+- Linear regreesion with one variable (single feature x)
+- 也叫单变量线性回归 univariate(one) linear regression
 
 
 
