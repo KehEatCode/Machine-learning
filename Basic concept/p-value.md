@@ -8,6 +8,8 @@
 
 - A commonly used threhold is 0.05. 
 
+    - which means there are only 5% of the differences come from weird random things 只有5%差异的可能性来自于随机，这保证了实验结果的稳定性
+
     - There is no difference between a and b. 
     
     - if we did this experiment a bunch of times, then only 5% of those experiments would result in the wrong decision.
