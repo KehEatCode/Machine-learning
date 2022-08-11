@@ -14,7 +14,7 @@
     
     - if we did this experiment a bunch of times, then only 5% of those experiments would result in the wrong decision.
 
-- p value can be divided into 2 types: one-side p value and two-side p value
+- p value can be divided into 2 types: one-side p value and two-side p value; two sided is common
 
 - A p value is used in hypothesis testing to help you support or reject the null hypothesis. 
 - 
@@ -23,3 +23,7 @@
 - P values are expressed as decimals although it may be easier to understand what they are if you convert them to a percentage. 
 
     - For example, a p value of 0.0254 is 2.54%. This means there is a 2.54% chance your results could be random (i.e. happened by chance). That’s pretty tiny. On the other hand, a large p-value of .9(90%) means your results have a 90% probability of being completely random and not due to anything in your experiment. Therefore, the smaller the p-value, the more important (“significant“) your results.
+
+- <img width="872" alt="Screen Shot 2022-08-11 at 2 32 34 PM" src="https://user-images.githubusercontent.com/93849914/184213611-08c1ae94-b1bc-48ec-8c59-521310e6c887.png">
+
+- To calculate p-values with a distribution, we add up the percentages of area under the curve
