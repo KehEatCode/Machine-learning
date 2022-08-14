@@ -1,5 +1,7 @@
 # FDR 错误发现率
 
+<img width="283" alt="Screen Shot 2022-08-14 at 5 29 48 PM" src="https://user-images.githubusercontent.com/93849914/184555603-20341ece-bda7-47b5-963c-70f174136e4f.png">
+
 - FDR are a tool to weed out bad data that looks good
 
     - can control the number of false positive by using 'Benjamini- Hochberg method'
