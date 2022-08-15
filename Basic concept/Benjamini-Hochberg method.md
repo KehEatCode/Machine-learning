@@ -4,6 +4,12 @@
 - adjusts p values means that it makes them larger
 - 使得pvalue变大，不再显著（抛弃表面好但实质差的数值）
 
+- step1: 根据原假设pvalue排序
+
+- step2: 当p<= α *rank / m reject Ho
+
+- 这里的α 是FDR threhold，一般为0.05
+
 - Overlap
 
 <img width="868" alt="Screen Shot 2022-08-11 at 3 11 27 PM" src="https://user-images.githubusercontent.com/93849914/184220438-667b4a42-62b4-4d8b-8ffa-61bc1d7af9b9.png">
@@ -23,3 +29,5 @@
 <img width="1038" alt="Screen Shot 2022-08-11 at 3 19 20 PM" src="https://user-images.githubusercontent.com/93849914/184221692-7f1c5893-2242-4fef-b3b1-20078d6b3ac8.png">
 <img width="1110" alt="Screen Shot 2022-08-11 at 3 19 31 PM" src="https://user-images.githubusercontent.com/93849914/184221720-facde610-2a7c-4511-ae87-244e68bd5ded.png">
 <img width="1086" alt="Screen Shot 2022-08-11 at 3 19 40 PM" src="https://user-images.githubusercontent.com/93849914/184221744-637227bd-c027-4c36-81bd-a4ac7b7411a0.png">
+
+
