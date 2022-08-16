@@ -10,6 +10,6 @@
     
     - The equation for multiple linear regression can be represented by: 
     
-         - target = intercept + constant 1*feature 1 + constant 2*feature 2 + constant 3*feature 3 + .....
+         - target = intercept + constant 1 * feature 1 + constant 2 * feature 2 + constant 3 * feature 3 + .....
          
-         - The model aims to find the constants and intercept such that this line is the best fit.32
+- The model aims to find the constants and intercept such that this line is the best fit.
